@@ -107,10 +107,7 @@ public class Exe_06 {
             }
         }
 
-
-
-
-
+        // EXECUÇÃO
 
 
         public static void main(String[] args) {
