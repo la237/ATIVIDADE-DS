@@ -44,7 +44,7 @@ public class Exe_05 {
         System.out.println("Strings: "+ strings);
     }
 
-
+    // EXECUÇÃO
 
 
     public static void main(String[] args) {
